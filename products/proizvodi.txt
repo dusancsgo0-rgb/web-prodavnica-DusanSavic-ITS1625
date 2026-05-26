@@ -1,0 +1,4 @@
+Kategorije: odeća, obuća, aksesoari
+odeća: majice, dukserice, trenerke, jakne, prsluci
+Obuća: patike, cipele, papuče, čizme, mokasine 
+aksesoari: carape, kacketi, kape, sal , rukavice
